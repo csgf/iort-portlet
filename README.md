@@ -27,7 +27,7 @@ As in conventional radio-therapy techniques, the use of Monte Carlo simulations 
 <td>&nbsp;</td>
 <td><a href="http://www.polooncologicocefalu.it/"><img width="300" src="http://www.hsrgiglio.it/sito/images/LATO.jpg" border="0" title="Polo Oncologico Cefalu'"></a></td>
 <td>&nbsp;</td>
-<td><a href="http://www.hsrgiglio.it/sito/index.php"><img width="300" src="http://www.hsrgiglio.it/sito/images/presskit/Logo.jpg" border="0" title="Fondazione Istituto San Raffaele - G. Giglio Cefalu'"></a></td>
+<td><a href="http://www.hsrgiglio.it/sito/index.php"><img width="150" src="http://www.hsrgiglio.it/sito/images/presskit/Logo.jpg" border="0" title="Fondazione Istituto San Raffaele - G. Giglio Cefalu'"></a></td>
 </tr>
 </table>
 </p>
