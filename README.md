@@ -25,7 +25,7 @@ As in conventional radio-therapy techniques, the use of Monte Carlo simulations 
 <tr>
 <td><a href="http://www.infn.it/"><img width="100" src="http://www.infn.it/logo/weblogo1b.gif" border="0" title="The INFN Home Page"></a></td>
 <td>&nbsp;</td>
-<td><a href="http://ei4africa.eu"><img width="300" src="http://ei4africa.eu/files/2013/04/eI4africa_logo.png" border="0" title="The ei4Africa Home Page"></a></td>
+<td><a href="http://www.hsrgiglio.it/sito/images/logo_polo_oncologico.jpg"><img width="300" src="http://www.hsrgiglio.it/sito/images/LATO.jpg" border="0" title="Polo Oncologico Cefalu'"></a></td>
 </tr>
 </table>
 </p>
