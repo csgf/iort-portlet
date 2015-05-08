@@ -32,7 +32,7 @@ As in conventional radio-therapy techniques, the use of Monte Carlo simulations 
 <td><a href="http://www.lns.infn.it/"><img width="120" src="http://www.lns.infn.it/excyt/INFN-logo.gif" border="0" title="The INFN-LNS Home Page"></a></td>
 </tr>
 <tr>
-<td colspan="7"><a href="http://www.ibfm.cnr.it/"><img width="300" src="http://www.ibfm.cnr.it/immagini_homepage/ibfm_home_r1_c1.gif" border="0" title="CNR - Institute of Molecular Bioimaging and Physiology"></a></td>
+<td colspan="7"><a href="http://www.ibfm.cnr.it/"><img width="500" src="http://www.ibfm.cnr.it/immagini_homepage/ibfm_home_r1_c1.gif" border="0" title="CNR - Institute of Molecular Bioimaging and Physiology"></a></td>
 </tr>
 </table>
 </p>
