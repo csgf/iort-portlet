@@ -29,7 +29,7 @@ As in conventional radio-therapy techniques, the use of Monte Carlo simulations 
 <td>&nbsp;</td>
 <td><a href="http://www.hsrgiglio.it/sito/index.php"><img width="150" src="http://www.hsrgiglio.it/sito/images/presskit/Logo.jpg" border="0" title="Fondazione Istituto San Raffaele - G. Giglio Cefalu'"></a></td>
 <td>&nbsp;</td>
-<td><a href="http://www.lns.infn.it/"><img width="100" src="http://www.lns.infn.it/excyt/INFN-logo.gif" border="0" title="The INFN-LNS Home Page"></a></td>
+<td><a href="http://www.lns.infn.it/"><img width="120" src="http://www.lns.infn.it/excyt/INFN-logo.gif" border="0" title="The INFN-LNS Home Page"></a></td>
 </tr>
 </table>
 </p>
