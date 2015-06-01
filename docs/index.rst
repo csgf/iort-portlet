@@ -92,8 +92,8 @@ A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
-        ]$ tree ASTRASoundTimbreReconstructionSimulationStarted_148681/
-        ASTRASoundTimbreReconstructionSimulationStarted_148681/
+        ]$ tree IortTherapySimulationStarted_646/
+        IortTherapySimulationStarted_646/
         ├── AstraStk.err
         ├── AstraStk.out
         ├── bachfugue.wav (8.7M)
