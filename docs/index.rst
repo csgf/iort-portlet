@@ -97,7 +97,7 @@ A typical simulation produces, at the end, the following files:
         ├── std.err
         ├── std.out
         ├── output.README
-        └── results.tar.gz (589M)
+        └── results.tar.gz
 
 The list of files produced during the run are the following:
 
@@ -113,9 +113,9 @@ The list of files produced during the run are the following:
 References
 ============
 
-.. _10: http://ceur-ws.org/Vol-993/paper5.pdf
+.. _2: http://ceur-ws.org/Vol-993/paper5.pdf
 
-* Concurrancy and Computation: Practice and Experience (2014). Published online in Wiley Online Library. DOI: 10.1002/cpe.3268: *"A GEANT4 web-based application to support Intra-Operative Electron Radiotherapy usign the European grid infrastructure"* – 2014 [1_];
+* Concurrancy and Computation: Practice and Experience (2014). Published online in Wiley Online Library. DOI: 10.1002/cpe.3268: *"A GEANT4 web-based application to support Intra-Operative Electron Radiotherapy usign the European grid infrastructure"* – 2014 [2_];
 
 ============
 Support
@@ -124,21 +124,21 @@ Please feel free to contact us any time if you have any questions or comments.
 
 .. _INFN: http://www.ct.infn.it/
 .. _INFN_LNS: http://www.lns.infn.it/
-.. _DANTE: http://www.dante.net/
+.. _LATO: http://www.polooncologicocefalu.it/
 .. _MALAGA: http://www.uma.es/
 .. _5: http://www.conservatoriocimarosa.org/
 
 :Authors:
 
- `Carlo CASARINO <mailto:carlo.casarino@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO), Cefalu' ([_]),
+ `Carlo CASARINO <mailto:carlo.casarino@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
  
- `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO), Cefalu' ([_]),
+ `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
   
- `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics - LNS (),
+ `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - INFN_LNS_,
  
  `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
- `Susanna GUATELLI <mailto:susanna@uow.edu.au>`_ - Centre for Medical Radiation Physics, School of Engineering Physics, University of Wollongong, NSW 2522 Australia (),
+ `Susanna GUATELLI <mailto:susanna@uow.edu.au>`_ - Centre for Medical Radiation Physics, School of Engineering Physics, University of Wollongong, NSW 2522 Australia,
  
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
