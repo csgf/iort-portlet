@@ -71,9 +71,11 @@ Usage
 
 To run the Monte Carlo simulation the user has to:
 
-- click on the *third* accordion of the portlet and,
+- click on the *third* accordion of the portlet,
 
-- upload the macro as ASCII file OR paste its content in the below textarea as shown in the below figure:
+- upload the macro as ASCII file OR paste its content in the below textarea, and
+
+- select the number of jobs to be executed as shown in the below figure:
 
 .. image:: images/IORT_inputs.jpg
       :align: center
