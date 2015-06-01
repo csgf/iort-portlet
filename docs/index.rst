@@ -94,29 +94,28 @@ A typical simulation produces, at the end, the following files:
 
         ]$ tree IortTherapySimulationStarted_646/
         IortTherapySimulationStarted_646/
-        ├── AstraStk.err
-        ├── AstraStk.out
-        ├── bachfugue.wav (8.7M)
+        ├── std.err
+        ├── std.out
         ├── output.README
-        └── samples.tar.gz (589M)
+        └── results.tar.gz (589M)
+
+The list of files produced during the run are the following:
+
+.. code:: bash
+
+        ]$ tar ztvf results.tar.gz
+        currentEvent.rndm
+        currentRun.rndm
+        Dose.out
+        Energy_MeV.out
 
 ============
 References
 ============
 
-.. _10: http://documents.ct.infn.it/record/421/files/Proceedings_Workshop_Finale.pdf
-.. _2: http://www.garr.it/eventiGARR/conf09/doc/SelectedPapers_Conf09.pdf
-.. _3: https://books.google.it/books?id=fZdGAAAAQBAJ&printsec=frontcover&hl=it
-.. _4: http://www.sciencedirect.com/science/article/pii/S187705091000044X
+.. _10: http://ceur-ws.org/Vol-993/paper5.pdf
 
-* Final workshop of Grid Projects "Pon Ricerca 2000-2006, Avviso 1575": *"ASTRA Project Achievements: The reconstructed Greek Epigonion with GILDA/ASTRA brings history to life. It takes archaeological findings of extinct musical instruments, and lets us play them again thanks to a virtual digital model running on the GRID.EUMEDGRID on GEANT2/EUMEDCONNECT"* – February 10-12, 2009 Catania, Italy [1_];
-
-* Conferenza GARR: *"ASTRA Project: un ponte fra Arte/Musica e Scienza/Tecnologia - Conferenza GARR"* – September 2009, Napoli, Italy [2_];
-
-* International Symposium on Grid Computing 2009: *"The ASTRA (Ancient instruments Sound/Timbre Reconstruction Application) Project brings history to life"* – March 2010, Taipei, Taiwan [3_];
-
-* Proceedings of the International Conference on Computational Science, ICCS2010, doi:10.1016/j.procs.2010.04.043: *"Data sonification of volcano sesmograms and Sound/Timbre recountruction of ancient musical instruments with Grid infrastructures"* – May, 2010 Amsterdam, The Netherlands [4_];
-
+* Concurrancy and Computation: Practice and Experience (2014). Published online in Wiley Online Library. DOI: 10.1002/cpe.3268: *"A GEANT4 web-based application to support Intra-Operative Electron Radiotherapy usign the European grid infrastructure"* – 2014 [1_];
 
 ============
 Support
@@ -135,7 +134,7 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO), Cefalu' ([_]),
   
- `Giuseppe Antonio Pablo CIRRONE <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics - LNS (),
+ `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics - LNS (),
  
  `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
