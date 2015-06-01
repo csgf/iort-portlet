@@ -69,7 +69,7 @@ In the figure below is shown how the application settings have been configured t
 Usage
 ============
 
-To run the Monte Carlo simulation the user has to:
+To run the Monte Carlo simulations the user has to:
 
 - click on the *third* accordion of the portlet,
 
@@ -95,7 +95,7 @@ A typical simulation produces, at the end, the following files:
         ]$ tree IortTherapySimulationStarted_646/
         IortTherapySimulationStarted_646/
         ├── std.err
-        ├── std.out
+        ├── std.txt
         ├── output.README
         └── results.tar.gz
 
@@ -134,7 +134,7 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
   
- `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - INFN_LNS_,
+ `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
  
  `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
@@ -144,4 +144,4 @@ Please feel free to contact us any time if you have any questions or comments.
  
 :Version: v1.2.2, 2015
 
-:Date: June 1st, 2015 10:17
+:Date: June 1st, 2015 11:17
