@@ -8,7 +8,7 @@ About
 
 .. _1: http://www.ro-journal.com/content/8/1/80
 
-IntraOperative Electron Radiotherapy [1_] (IOERT) is a radiotherapy technique that delivers a single dose of radiation directly to the tumor bed, or to the exposed tumor, during surgery. The objective is to achieve a higher dose in the target volume while dose-limiting structures are surgically displaced. IOERT is used for limited-stage breast tumors treatment and also successfully for prostate, colon and sarcoma cancers. For this purpose, a new generation of mobile linear accelerators has been designed to deliver radiation therapy in the operating theater.
+IntraOperative Electron Radiotherapy (IOERT) [1_] is a radiotherapy technique that delivers a single dose of radiation directly to the tumor bed, or to the exposed tumor, during surgery. The objective is to achieve a higher dose in the target volume while dose-limiting structures are surgically displaced. IOERT is used for limited-stage breast tumors treatment and also successfully for prostate, colon and sarcoma cancers. For this purpose, a new generation of mobile linear accelerators has been designed to deliver radiation therapy in the operating theater.
 
 As in conventional radio-therapy techniques, the use of Monte Carlo simulations is mandatory to design the beam collimation system and to study radioprotection charactheristics as the radiation leakages. In the clinical activities the simulations can be used to commissioning of the linac and in the optimization of the therapeutic dose and patient radioprotection. 
 
@@ -102,7 +102,7 @@ A typical simulation produces, at the end, the following files:
 References
 ============
 
-.. _1: http://documents.ct.infn.it/record/421/files/Proceedings_Workshop_Finale.pdf
+.. _10: http://documents.ct.infn.it/record/421/files/Proceedings_Workshop_Finale.pdf
 .. _2: http://www.garr.it/eventiGARR/conf09/doc/SelectedPapers_Conf09.pdf
 .. _3: https://books.google.it/books?id=fZdGAAAAQBAJ&printsec=frontcover&hl=it
 .. _4: http://www.sciencedirect.com/science/article/pii/S187705091000044X
