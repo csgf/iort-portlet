@@ -73,7 +73,7 @@ To run the Monte Carlo simulation the user has to:
 
 - click on the *third* accordion of the portlet and,
 
-- select the input file (e.g. *.ski* or *.mid* files) OR select a demo from the list as shown in the below figure:
+- upload the macro as ASCII file OR paste its content in the below textarea as shown in the below figure:
 
 .. image:: images/IORT_inputs.jpg
       :align: center
