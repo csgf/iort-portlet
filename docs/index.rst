@@ -129,14 +129,14 @@ Please feel free to contact us any time if you have any questions or comments.
 .. _5: http://www.conservatoriocimarosa.org/
 
 :Authors:
+ 
+ `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
  `Carlo CASARINO <mailto:carlo.casarino@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
  
  `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
   
  `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
- 
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
  `Susanna GUATELLI <mailto:susanna@uow.edu.au>`_ - Centre for Medical Radiation Physics, School of Engineering Physics, University of Wollongong, NSW 2522 Australia,
  
