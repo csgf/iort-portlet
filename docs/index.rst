@@ -118,7 +118,7 @@ References
 * Concurrancy and Computation: Practice and Experience (2014). Published online in Wiley Online Library. DOI: 10.1002/cpe.3268: *"A GEANT4 web-based application to support Intra-Operative Electron Radiotherapy usign the European grid infrastructure"* – 2014 [2_];
 
 ============
-Contact
+Contributor(s)
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -128,15 +128,15 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
  
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
- `Carlo CASARINO <mailto:carlo.casarino@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
+ Carlo CASARINO - LAboratorio di Tecnologie Oncologiche (LATO_),
  
- `Giuliana Carmela CANDIANO <mailto:giuliana.candiano@polooncologicocefalu.it>`_ - LAboratorio di Tecnologie Oncologiche (LATO_),
+ Giuliana Carmela CANDIANO - LAboratorio di Tecnologie Oncologiche (LATO_),
   
- `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
+ Giuseppe Antonio Pablo CIRRONE - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
  
- `Susanna GUATELLI <mailto:susanna@uow.edu.au>`_ - Centre for Medical Radiation Physics, School of Engineering Physics, University of Wollongong, NSW 2522 Australia,
+ Susanna GUATELLI - Centre for Medical Radiation Physics, School of Engineering Physics, University of Wollongong, NSW 2522 Australia,
  
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_)
  
