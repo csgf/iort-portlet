@@ -1,5 +1,5 @@
 *********************
-IORT Docs
+IORT 
 *********************
 
 ============
@@ -118,7 +118,7 @@ References
 * Concurrancy and Computation: Practice and Experience (2014). Published online in Wiley Online Library. DOI: 10.1002/cpe.3268: *"A GEANT4 web-based application to support Intra-Operative Electron Radiotherapy usign the European grid infrastructure"* – 2014 [2_];
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -140,6 +140,3 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-:Version: v1.2.2, 2015
-
-:Date: June 1st, 2015 11:17
